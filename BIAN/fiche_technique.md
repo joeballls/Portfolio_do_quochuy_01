@@ -1,6 +1,6 @@
 # Le château de sable
 
-![machine](medias/chateau_sable_portrait.jpg )
+![portrait](medias/chateau_sable_portrait.jpg)
 
   ## Nom de l'artiste ou de la firme
 
@@ -21,6 +21,8 @@ Montréal, Québec, L'Arsenal
   ## Date de votre visite
 
 9 Février 2022
+
+![croquis](croquis/croquis_general.png)
 
   ## Description de l'oeuvre ou du dispositif multimédia 
 
