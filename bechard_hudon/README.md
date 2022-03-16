@@ -1,1 +1,1 @@
-Ceci est le dossier pour l'exposition de Béchard Hudon
+# Ceci est le dossier pour l'exposition de Béchard Hudon
