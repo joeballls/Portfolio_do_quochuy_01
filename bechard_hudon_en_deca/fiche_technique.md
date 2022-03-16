@@ -23,21 +23,25 @@
 
   ## Explications sur la mise en espace de l'oeuvre ou du dispositif
   Les murs sont placés dans le centre de la salle avec des lumières qui illumine l'oeuvre. Les sons qui sont transmis complémente les autres oeuvres présents.
-
+  ![arriere1](medias/en_deca_arriere_1.png)
+  
   ## Liste des composantes et techniques de l'oeuvre ou du dispositif
   Contreplaqué baltique, transducteurs, amplificateur, interface audio, détecteurs de mouvement, ordinateur, alimentation
+  ![arriere2](medias/en_deca_arriere_2.png)
+  ![cables2](medias/en_deca_cables2.png)
   
   [Source](https://bechardhudon.com/project/en-deca-2022/)
 
   ##  Liste des éléments nécessaires pour la mise en exposition
   De l'éléctricité et une salle assez grande.
-  
+  ![lampes](medias/en_deca_lampes.png)
+  ![transducteur](medias/en_deca_transducteur.png)
 
   ##  Expérience vécue:
 
   ### Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
   J'ai vécue une expérience intéressante avec l'oeuvre parce que de base, elle n'a pas l'air si intrigante ou spéciale comparée aux autres oeuvres présents. Quand j'ai rentré dans la salle, je pensais que c'était une chose en construction, mais quand la guide nous a expliqué les détails de l'exposition ça a capté mon attention. L'utilisation des murs et des transducteurs pour transmettre des sons m'impressionne puisque je n'aurais jamais pensé à ça. Si tu pose ta main sur le mur, tu peut ressentir des vibrations qui correspond au son qui joue.
-  
+  ![interieur](medias/en_deca_interieur.png)
 
   ### ❤️ Ce qui vous a plu, vous a donné des idées et justifications
   Ce que j'ai aimé le plus  était l'utilisation des sons de la nature, comme les vagues et les vibrations sismiques. Si tu ne sais pas la source des ces sons, ça donne un effet assez mystérieux à l'oeuvre.
@@ -47,3 +51,5 @@
 
   ## Références
    [Source](https://bechardhudon.com/project/en-deca-2022/)
+
+   ![portrait](medias/en_deca_portrait.png)
