@@ -1,18 +1,24 @@
 
 
-  # L'en deçà
+  # Titre de l'oeuvre ou de la réalisation
+  L'en deçà
 ![croquis](croquis/croquis.png)
 
 
-  ## Béchard Hudon
+  ## Nom de l'artiste ou de la firme
+  Béchard Hudon
 
-  ## 2021
+  ## Année de réalisation
+  2021
 
-  ## *Configuration du Sensible*
+  ## Nom de l'exposition ou de l'événement
+  *Configuration du Sensible*
 
-  ## Maison des Arts de Laval
+  ## Lieu de mise en exposition
+  Maison des Arts de Laval
 
-  ## 16 Mars 2022
+  ## Date de votre visite
+  16 Mars 2022
 
   ## Description de l'oeuvre ou du dispositif multimédia
   ![cartel](medias/en_deca_cartel.png)
