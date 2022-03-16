@@ -1,6 +1,8 @@
 
 
   # L'en deçà
+![croquis](croquis/croquis.png)
+
 
   ## Béchard Hudon
 
@@ -13,6 +15,8 @@
   ## 16 Mars 2022
 
   ## Description de l'oeuvre ou du dispositif multimédia
+  ![cartel](medias/en_deca_cartel.png)
+  
   C’est sur le vaste territoire compris entre Sept-Îles et Kegaska, sur la Côte-Nord que furent captés les paysages sonores singuliers au cœur de cette œuvre. L’usage d’hydrophones, soit des micros pouvant enregistrer sous l’eau, ainsi que de géophones spécialement conçus par les artistes pour capter les vibrations du sol et les traduire en sons, fut essentiel au projet. Diffusée via des transducteurs – qui ici transforment les parois de bois en membranes de transmission sonore –, la composition qui découle de ces enregistrements permet d’entendre une faune marine complexe, notamment une colonie d’oursins, et des ondes terrestres en bordure du Saint-Laurent, mais aussi des sons que ni les artistes, ni les pêcheurs, ni d’autres habitants rencontrés dans la région ne furent capables d’identifier avec précision. Cette part de mystère est soutenue par les détecteurs de mouvement qui activent la bande-son, avec des moments de silence lorsque les gestes se font absents. Le mode d’attention particulier que ces silences convoquent fait partie intégrante de l’œuvre; il s’agit d’un motif que le duo traite de longue date. 
   
   [Source](https://bechardhudon.com/project/en-deca-2022/)
