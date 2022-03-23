@@ -26,19 +26,21 @@
 
   ###  🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
-  ## les projets ordonnés selon mes préférences actuelles
+  ## les projets ordonnés selon mes préférences après avoir visité
 
-  1- **Jeu temporel**: Le concept n'est pas vraiment mon favoris mais j'aime beaucoup l'installation des boutons et de l'écran
+  1- **L'horloge de l'apocalypse**: Les aiguilles qui changent ce qui est projeté était très impressionant
 
-  2- **Chronaufrage**: J'aime beaucoup les illustrations et les peintures qui s'adapentent
+  2- **Jeu temporel**: Le jeu était très fluide et était assez drôle vers la fin avec les questions rhétorique
 
-  3- **3 Minutes**: J'aime l'idée de VR et le concept du casier est très intéressant
+  3- **Chronaufrage**: Les animations sont très fluides avec les capteurs et les illustrations sont agréable à observer
 
-  4- **L'horloge de l'apocalypse**: Le concept de bouger les aiguilles de l'horloge pour changer l'élément visuel est intéressant
+  4- **3 Minutes**: Le VR était bon mais avait quelque problèmes avec les capteurs du casque et les mannettes. Le casier était bien éxécuté
 
-  5- **Distorsion collective**: Eh, je trouve que l'idée n'est pas vraiment intéressant
+  5- **Chère Sasha**: L'idée a bien été éxécutée mais il était parfois difficile de savoir si il fallait faire quelque chose ou écouter. De plus, le son n'était pas assez fort donc il était difficile d'entendre les dialogues.
 
-  6- **Chère Sasha**: Même chose, l'idée n'est pas intéressant
+  6- **Distorsion collective**: L'idée était excellente mais je pense que ça aurait pu passer plus de temps en développement. Il y a des séquences où je ne savais pas si il fallait que je fasse quelque chose puisqu'il manquait des son pour m'indiquer ce qu'il se passait.
+
+  
 
 
   ## Références
