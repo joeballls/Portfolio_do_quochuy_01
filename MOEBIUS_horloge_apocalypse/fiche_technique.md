@@ -1,22 +1,43 @@
   # Titre de l'oeuvre ou de la réalisation
 
+  ## L'Horloge de l'Apocalypse
+
   ## Nom de l'artiste ou de la firme
+  
+  Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
+  
 
   ## Année de réalisation
+  
+  2022
 
   ## Nom de l'exposition ou de l'événement
+  
+  Moebius
 
   ## Lieu de mise en exposition
+  
+  Le grand studio dans le collège Montmorency
 
   ## Date de votre visite
+  
+  23 Mars 2022
 
-  ## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+  ## Description de l'oeuvre ou du dispositif multimédia 
+  
+  L'oeuvre s'agit d'une horloge, d'un téléphone et d'un projecteur avec des haut-parleurs dans le petit studio. Lorsqu'on tourne les aiguilles de l'horloge, l'entourage et la musique changent. Ça commence calme dans la nature et fini avec la fin de la civilization humaine causé par la guerre nucléaire. À minuit, le téléphone sonne, nous disant de passer à l'action et les caméras font en sorte qu'on se voit sur les murs.
 
-  ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+  ## Explications sur la mise en espace de l'oeuvre ou du dispositif
+  
+  L'horloge est sur un trépied à coté du téléphone posé sur un piedestal. Un projecteur sur le plafond nous indique ce qu'il faut faire. Les haut parleurs sur les cotés jouent de la musique ou une voix et les caméras sont pour projeter la visiteurs sur les murs.
 
   ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+  
+  Projecteur, haut parleur, caméras, lumière, arduino/raspberry pi
 
   ##  Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+  
+  Éléctricité, de l'espace, des rideaux, téléphone, horloge
 
   ##  Expérience vécue:
 
