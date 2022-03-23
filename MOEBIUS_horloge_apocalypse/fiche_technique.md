@@ -26,4 +26,19 @@
 
   ###  🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
+  ## les projets ordonnés selon mes préférences actuelles
+
+  1- **Jeu temporel**: Le concept n'est pas vraiment mon favoris mais j'aime beaucoup l'installation des boutons et de l'écran
+
+  2- **Chronaufrage**: J'aime beaucoup les illustrations et les peintures qui s'adapentent
+
+  3- **3 Minutes**: J'aime l'idée de VR et le concept du casier est très intéressant
+
+  4- **L'horloge de l'apocalypse**: Le concept de bouger les aiguilles de l'horloge pour changer l'élément visuel est intéressant
+
+  5- **Distorsion collective**: Eh, je trouve que l'idée n'est pas vraiment intéressant
+
+  6- **Chère Sasha**: Même chose, l'idée n'est pas intéressant
+
+
   ## Références
