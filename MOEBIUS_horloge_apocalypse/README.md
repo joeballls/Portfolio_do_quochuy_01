@@ -1,1 +1,1 @@
-# Ceci est le dossier pour le projet de l'Horloge de l'Apocalypse des finissants de TIM
+# Ce dossier contient les informations et médias de l'Horloge de l'Apocalypse des finissants de TIM
