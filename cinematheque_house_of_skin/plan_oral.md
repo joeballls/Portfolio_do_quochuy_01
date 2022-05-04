@@ -9,12 +9,18 @@ SD: De l'info sur les aspects différents de cette expo; info général, descrip
 # Développement: 
 **document initial**
 Info général: Nom de l'oeuvre, artiste, année de réalisation, lieu de mise en expo
+
 Description de l'oeuvre en détail
+
 Explication de la mise en place
+
 Composantes et éléments nécéssaires
 
+
 Mon expérience
+
 Ce que j'ai aimé
+
 Ce que je n'ai pas aimé
 
 # Conclusion: 
