@@ -26,6 +26,9 @@ Ce que j'ai aimé
 
 Ce que je n'ai pas aimé
 
+### liens
+Je trouve que l'oeuvre ressemble le plus à l'oeuvre dans la BIAN des 4 robots suspendus à cause du malaise et de l'horreur que les deux nous font ressentir. Le manque de contexte est compensé par notre imagination et nos explications met l'accent sur l'horreur.
+
 # Conclusion: 
 Rappel: House of Skin est un projet de Sabrina Ratté qui met en valeur une sorte d'horreur qui laisse les explications à l'imagination de la personne qui a vécu l'expérience. Ceci est atteint en limitant les explications et le sens du visiteur. Par exemple, en laissant la salle très sombre et des sons qui sont difficile à identifier.
 
