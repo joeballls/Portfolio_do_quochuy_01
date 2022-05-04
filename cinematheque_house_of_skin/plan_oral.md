@@ -1,13 +1,16 @@
 # Intro
 
-SP: Présenter House of Skin, une oeuvre surréel à propos d'êtres biologiques intégrés dans de la technologie de Sabrina Ratté, fait en 2020, de mon expérience avec et comment cela à été realisé en terme de composantes et techniques.
+### SP: 
+Présenter House of Skin, une oeuvre surréel à propos d'êtres biologiques intégrés dans de la technologie de Sabrina Ratté, fait en 2020, de mon expérience avec et comment cela à été realisé en terme de composantes et techniques.
 
-SD: De l'info sur les aspects différents de cette expo; info général, description, explication de la mise en place, composantes/éléments
+### SD: 
+De l'info sur les aspects différents de cette expo; info général, description, explication de la mise en place, composantes/éléments
 
 
 
 # Développement: 
 **document initial**
+
 Info général: Nom de l'oeuvre, artiste, année de réalisation, lieu de mise en expo
 
 Description de l'oeuvre en détail
